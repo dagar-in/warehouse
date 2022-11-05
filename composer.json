@@ -1,6 +1,6 @@
 {
     "name": "dagar/warehouse",
-    "description": "A set of commands for laravel use to help in development",
+    "description": "A set of commands & packages for laravel use to help in development.",
     "keywords": [
         "dagar",
         "warehouse",

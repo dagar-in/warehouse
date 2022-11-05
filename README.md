@@ -35,6 +35,6 @@ php artisan house:setup
 ## Crawler
 
 ```url
-http://localhost:8080/crawl
+http://localhost:8000/crawl
 ```
 [Read more about Dagar/Crawler](https://github.com/dagar-in/crawler)
